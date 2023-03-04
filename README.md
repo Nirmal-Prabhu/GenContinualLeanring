@@ -1,1 +1,1 @@
-# GenContinualLeanring
+# GenContinualLearning
